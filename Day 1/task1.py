@@ -1,6 +1,6 @@
 
 # Read input
-with open('input_task_1', 'r') as file:
+with open('input_day_1', 'r') as file:
     rotations = file.readlines();
 
 # Initialize variables
